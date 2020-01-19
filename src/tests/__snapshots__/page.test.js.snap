@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Page> 1`] = `
+<div>
+  <h1
+    data-testid="pageTitle"
+  >
+    TEST PAGE
+  </h1>
+  <div>
+    <button
+      data-testid="removeBtn"
+    >
+      Reduce
+    </button>
+    <button
+      data-testid="addBtn"
+    >
+      Add
+    </button>
+    <h1
+      data-testid="valueHeader"
+    >
+      The value is:
+    </h1>
+    <p
+      data-testid="value"
+    >
+      0
+    </p>
+  </div>
+</div>
+`;
