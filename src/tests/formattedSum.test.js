@@ -3,7 +3,7 @@ import { formattedSum } from "./../functions/formattedSum";
 
 //*
 // Real life integration test
-test("Intefration Test No 1", () => {
+test("Integration Test No 1", () => {
   expect(formattedSum(5.3, 2)).toBe(7);
 });
 //*/
